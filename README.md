@@ -47,30 +47,22 @@ git clone https://github.com/username/noisify.git
 cd noisify
 flutter pub get
 flutter run
+```
 
+## 🧠 Konsep Desain
 
-🧠 Konsep Desain
 Noisify menggunakan pendekatan clean architecture dengan struktur folder modular, memisahkan UI, model, service, dan logic. UI menggunakan gaya modern dengan Tailwind-like spacing dan warna hijau khas brand Noisify.
 
-✨ To-do List
- Mode Offline
 
- Equalizer & Sound Effects
+## 🤝 Kontribusi
 
- Sharing Lagu via Link
-
- Widget Android & iOS
-
- Fitur Premium / Subscription
-
-🤝 Kontribusi
 Pull request, issue, dan feedback sangat diterima! Jika kamu punya ide fitur baru atau menemukan bug, silakan buka issue atau buat PR!
 
-bash
-Copy
-Edit
+```bash
 git checkout -b fitur-baru
 git commit -m "Tambah fitur X"
 git push origin fitur-baru
-📄 Lisensi
-MIT License © 2025 [YourName]
+```
+
+## 📄 Lisensi
+MIT License © 2025 [Reyhand]

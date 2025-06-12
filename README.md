@@ -2,7 +2,7 @@
 
 Noisify adalah aplikasi streaming musik modern yang terinspirasi dari Spotify, dikembangkan menggunakan Flutter. Aplikasi ini menghadirkan pengalaman mendengarkan musik yang mulus, responsif, dan penuh gaya—dengan UI elegan dan fitur yang canggih.
 
-![Noisify Logo](assets/images/noisify_logo.png) <!-- Ganti dengan path atau link logo kamu -->
+![Noisify Logo](assets/images/noisify_logo.png) 
 
 ---
 
@@ -47,3 +47,30 @@ git clone https://github.com/username/noisify.git
 cd noisify
 flutter pub get
 flutter run
+
+
+🧠 Konsep Desain
+Noisify menggunakan pendekatan clean architecture dengan struktur folder modular, memisahkan UI, model, service, dan logic. UI menggunakan gaya modern dengan Tailwind-like spacing dan warna hijau khas brand Noisify.
+
+✨ To-do List
+ Mode Offline
+
+ Equalizer & Sound Effects
+
+ Sharing Lagu via Link
+
+ Widget Android & iOS
+
+ Fitur Premium / Subscription
+
+🤝 Kontribusi
+Pull request, issue, dan feedback sangat diterima! Jika kamu punya ide fitur baru atau menemukan bug, silakan buka issue atau buat PR!
+
+bash
+Copy
+Edit
+git checkout -b fitur-baru
+git commit -m "Tambah fitur X"
+git push origin fitur-baru
+📄 Lisensi
+MIT License © 2025 [YourName]

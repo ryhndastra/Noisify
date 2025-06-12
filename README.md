@@ -2,7 +2,7 @@
 
 Noisify adalah aplikasi streaming musik modern yang terinspirasi dari Spotify, dikembangkan menggunakan Flutter. Aplikasi ini menghadirkan pengalaman mendengarkan musik yang mulus, responsif, dan penuh gaya—dengan UI elegan dan fitur yang canggih.
 
-![Noisify Logo](assets/logo/noisify_banner.png) <!-- Ganti dengan path atau link logo kamu -->
+![Noisify Logo](assets/images/noisify_logo.png) <!-- Ganti dengan path atau link logo kamu -->
 
 ---
 

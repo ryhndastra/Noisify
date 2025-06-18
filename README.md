@@ -43,7 +43,7 @@ Noisify adalah aplikasi streaming musik modern yang terinspirasi dari Spotify, d
 ## 🔧 Cara Menjalankan
 
 ```bash
-git clone https://github.com/username/noisify.git
+git clone https://github.com/ryhndastra/noisify.git
 cd noisify
 flutter pub get
 flutter run
